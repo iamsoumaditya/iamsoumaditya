@@ -77,11 +77,7 @@ export class StatsModule {
 ``` -->
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=iamsoumaditya)
-
-
-
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=iamsoumaditya&v=1)
 
 ---
 
