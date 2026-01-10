@@ -77,7 +77,7 @@ export class StatsModule {
 ``` -->
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=iamsoumaditya&v=1)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=iamsayanpal&theme=default&hide_border=false)<br/>
 
 ---
 
